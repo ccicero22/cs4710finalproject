@@ -37,3 +37,9 @@ yarn-error.log*
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Python virtual environment
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
