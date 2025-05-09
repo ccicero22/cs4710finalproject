@@ -1,0 +1,8 @@
+Basketball Shooting Form Analysis
+Date and Time: 2025-05-08 19:16:30
+
+Analysis performed using local videos:
+Normal form: rested4.mov
+Fatigued form: fatigued4.MOV
+
+Performing analysis of shooting form differences

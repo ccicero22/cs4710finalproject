@@ -1,0 +1,38 @@
+=== STATISTICAL ANALYSIS RESULTS ===
+
+Z-scores (values > 1.96 or < -1.96 indicate significant changes):
+• Elbow Angle: -9.63 (SIGNIFICANT)
+• Knee Angle: -16.78 (SIGNIFICANT)
+• Release Height: -5.67 (SIGNIFICANT)
+• Shoulder Alignment: 5.43 (SIGNIFICANT)
+
+Significant Deviations Detected:
+
+• Elbow Angle:
+  - Normal: 146.03
+  - Fatigued: 138.90
+  - Change: -4.88%
+  - Z-score: -9.63
+  - Interpretation: Elbow Angle decreased by 4.9% when fatigued
+
+• Knee Angle:
+  - Normal: 133.17
+  - Fatigued: 120.52
+  - Change: -9.50%
+  - Z-score: -16.78
+  - Interpretation: Knee Angle decreased by 9.5% when fatigued
+
+• Release Height:
+  - Normal: 0.85
+  - Fatigued: 0.80
+  - Change: -5.98%
+  - Z-score: -5.67
+  - Interpretation: Release Height decreased by 6.0% when fatigued
+
+• Shoulder Alignment:
+  - Normal: 0.02
+  - Fatigued: 0.06
+  - Change: 180.95%
+  - Z-score: 5.43
+  - Interpretation: Shoulder Alignment increased by 181.0% when fatigued
+    WARNING: Increased shoulder misalignment may indicate compensatory mechanics

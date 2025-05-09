@@ -1,0 +1,36 @@
+{
+    "normal_stats": {
+        "elbow_angle_mean": 56.78204208728923,
+        "elbow_angle_std": 51.564635629582895,
+        "knee_angle_mean": 17.33304729224413,
+        "knee_angle_std": 13.313247856571165,
+        "release_height_mean": 0.6132383892933527,
+        "release_height_std": 0.12155517008616183,
+        "shoulder_alignment_mean": 0.006931551628642612,
+        "shoulder_alignment_std": 0.00831663556330631
+    },
+    "fatigued_stats": {
+        "elbow_angle_mean": 80.0261756957135,
+        "elbow_angle_std": 56.68998956201854,
+        "knee_angle_mean": 18.693385949332495,
+        "knee_angle_std": 15.425353654776087,
+        "release_height_mean": 0.34028647647749993,
+        "release_height_std": 0.11156613887138386,
+        "shoulder_alignment_mean": 0.00891983316790673,
+        "shoulder_alignment_std": 0.009800518290827464
+    },
+    "z_scores": {
+        "elbow_angle": 0.4507766480771756,
+        "knee_angle": 0.10217932331342616,
+        "release_height": -2.2454981768556332,
+        "shoulder_alignment": 0.23907282267321922
+    },
+    "significant_deviations": {
+        "release_height": {
+            "z_score": -2.2454981768556332,
+            "normal_value": 0.6132383892933527,
+            "fatigued_value": 0.34028647647749993,
+            "percent_change": -44.50991940187908
+        }
+    }
+}

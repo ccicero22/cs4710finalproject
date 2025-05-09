@@ -1,0 +1,10 @@
+=== STATISTICAL ANALYSIS RESULTS ===
+
+Z-scores (values > 1.96 or < -1.96 indicate significant changes):
+• Elbow Angle: -0.03 (not significant)
+• Knee Angle: -0.84 (not significant)
+• Release Height: 0.03 (not significant)
+• Shoulder Alignment: -0.39 (not significant)
+
+Significant Deviations Detected:
+No significant deviations detected

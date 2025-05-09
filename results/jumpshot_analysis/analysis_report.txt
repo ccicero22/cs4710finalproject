@@ -1,0 +1,16 @@
+=== STATISTICAL ANALYSIS RESULTS ===
+
+Z-scores (values > 1.96 or < -1.96 indicate significant changes):
+• Elbow Angle: 0.45 (not significant)
+• Knee Angle: 0.10 (not significant)
+• Release Height: -2.25 (SIGNIFICANT)
+• Shoulder Alignment: 0.24 (not significant)
+
+Significant Deviations Detected:
+
+• Release Height:
+  - Normal: 0.61
+  - Fatigued: 0.34
+  - Change: -44.51%
+  - Z-score: -2.25
+  - Interpretation: Release Height decreased by 44.5% when fatigued
