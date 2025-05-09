@@ -14,10 +14,8 @@
   - opencv-python
   - mediapipe
   - numpy
-  - scipy
   - pandas
   - matplotlib
-  - seaborn
   - pytube
 
 ## Setup
